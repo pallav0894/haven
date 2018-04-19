@@ -50,5 +50,5 @@ test:
 production:
   <<: *default
   database: haven_production
-  username: haven
-  password: <%= ENV['HAVEN_DATABASE_PASSWORD'] %>
+  username: root
+  password: Zxcvwt80!
